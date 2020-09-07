@@ -2,7 +2,7 @@
  "items" :
  [
        
- {"id":1,"title":"Winter body", "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.", "price":110,"img":Item1},
+ {"id":1,"title":"Winter body", "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.", "price":110,"img":"Item1"},
      
 {"id":2,"title":"Ad id as", "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.", "price":80,"img": "Item2"},
       
